@@ -4,4 +4,4 @@ other security needs
 
 # Behind The Company
 - Founder - [@v1s0or](https://github.com/v1s0or)
-- Co-Founder - [@NullClock](https://github/NullClock)
+- Co-Founder - [@NullClock](https://github.com/NullClock)
